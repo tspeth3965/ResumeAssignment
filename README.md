@@ -1,6 +1,8 @@
 # Tiffany Speth's Resume Site for WEB-210 Web Design
 
-This is a UI/UX and Web Design student resume website. The website showcases selected projects created during school experience and demonstrates my skills in HTML and CSS, as well as web design.
+This is a UI/UX and Web Design student resume website built utilizing the guidelines in the Linked In CSS essentials Training course located at: https://www.linkedin.com/learning-login/share?account=56744281&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcss-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3D5UJzFeYeQhGLM0OB%252F%252BE6ig%253D%253D
+
+. The website showcases selected projects created during school experience and demonstrates my skills in HTML and CSS, as well as web design.
 
 ## Technologies used
 - HTML
